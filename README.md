@@ -1,4 +1,4 @@
-![background patreon](https://github.com/user-attachments/assets/72582eb0-a234-42ab-8b36-f0233f3eb677)
+![background patreon alternate](https://github.com/user-attachments/assets/0f5ec500-3597-42ee-883a-09416fe805da)
 ## About me 
 
 - 🔭 I’m currently working on ...
