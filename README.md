@@ -1,4 +1,5 @@
-![github banner test 2](https://github.com/user-attachments/assets/6e2a2b76-8a2a-4fb7-8c31-2efd93760d0c)
+
+![Luciana N](https://github.com/user-attachments/assets/d2119f35-d76c-48b0-a257-30bff0dc9b32)
 
 ## About me 
 
