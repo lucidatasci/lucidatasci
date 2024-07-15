@@ -10,12 +10,12 @@
   
 ## My Attributes
 
-- Scientific Background
-- Ability to have an unbiased view 
-- Ability to project and foresee future situations
-- Good balance between creative and analytical thinking
+- Scientific background
+- Visual Aptitude
+- Strong analytical skills
+- Strong imagination
 - Good aesthetics
-- Synthetic writing style
+- Synthetic writing 
 
 ## My Tools
 
