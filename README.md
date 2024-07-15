@@ -10,7 +10,25 @@
   
 ## My Stats
 
-<div> 
+- Vision 
+- Creative Thinking
+- Analytical Thinking
+- Neutral Observer
+- Multidisciplinary
+- Data Analysis
+- Data Science
+- Data Visualization
+- Scientific Background
+- Statistics
+- Technical Documentation
+- Synthesis
+- Aesthetics
+- Artistic
+
+
+## My Tools
+
+<div>  
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="40" height="40"/>
