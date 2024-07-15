@@ -1,30 +1,21 @@
-
+![Analytic](https://github.com/user-attachments/assets/565bbaa3-9894-493f-a312-fca33d59e18a)![Visual](https://github.com/user-attachments/assets/ca0c37a9-1cf4-46ad-bb02-269b5b921a22)
 ![Luciana N](https://github.com/user-attachments/assets/d2119f35-d76c-48b0-a257-30bff0dc9b32)
 
 ## About me 
 
 - 🔭 I'm a Physicist and a Data Scientist. 
 - 🌱 I’m currently learning advanced data science techniques.
-- 👯 I’m looking to collaborate on projects that make the world a better place for all. 
+- 👯 I’m looking to collaborate on projects that focus on environmental conservation or human wellbeing. 
 - ⚡ I'm also a visual artist. 
   
-## My Stats
+## My Attributes
 
-- Vision 
-- Creative Thinking
-- Analytical Thinking
-- Neutral Observer
-- Multidisciplinary
-- Data Analysis
-- Data Science
-- Data Visualization
 - Scientific Background
-- Statistics
-- Technical Documentation
-- Synthesis
-- Aesthetics
-- Artistic
-
+- Ability to have an unbiased view 
+- Ability to project and foresee future situations
+- Good balance between creative and analytical thinking
+- Good aesthetics
+- Synthetic writing style
 
 ## My Tools
 
