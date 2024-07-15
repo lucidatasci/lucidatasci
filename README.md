@@ -1,4 +1,3 @@
-![Analytic](https://github.com/user-attachments/assets/565bbaa3-9894-493f-a312-fca33d59e18a)![Visual](https://github.com/user-attachments/assets/ca0c37a9-1cf4-46ad-bb02-269b5b921a22)
 ![Luciana N](https://github.com/user-attachments/assets/d2119f35-d76c-48b0-a257-30bff0dc9b32)
 
 ## About me 
