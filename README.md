@@ -51,3 +51,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucidatasci&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Contact 📫
+<div id="badges">
+  <a href="https://www.linkedin.com/in/luciana-datasci/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
