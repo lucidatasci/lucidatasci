@@ -4,7 +4,7 @@
 
 - 🔭 I'm a Physicist and a Data Scientist. 
 - 🌱 I’m currently learning advanced data science techniques.
-- 👯 I’m looking to collaborate on projects that focus on environmental conservation or human wellbeing. 
+- 👯 I’m looking to collaborate on projects that focus on Earth conservation or the wellbeing of its inhabitants. 
 - ⚡ I'm also a visual artist. 
   
 ## My Attributes
